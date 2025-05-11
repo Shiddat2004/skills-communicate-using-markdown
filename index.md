@@ -22,3 +22,10 @@
 Спасибо, что заглянули!
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+<pre>
+def greet(name):
+    return f"Hello, {name}!"
+
+print(greet("Markdown"))
+</pre>
